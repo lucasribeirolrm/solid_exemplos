@@ -5,9 +5,13 @@ Mas como podemos aumentar a qualidade do nosso código? Embora não haja uma res
 Os princípios SOLID são um conjunto de cinco diretrizes fundamentais para a programação orientada a objetos, sendo eles:
 
 `S`: Single Responsibility Principle (Princípio da Responsabilidade Única)
+
 `O`: Open/Closed Principle (Princípio Aberto/Fechado)
+
 `L`: Liskov Substitution Principle (Princípio da Substituição de Liskov)
+
 `I`: Interface Segregation Principle (Princípio da Segregação de Interface)
+
 `D`: Dependency Inversion Principle (Princípio da Inversão de Dependência)
 
 Esses princípios, quando aplicados corretamente, ajudam a criar sistemas mais flexíveis, escaláveis e de fácil manutenção. A combinação desses conceitos com práticas como o **Clean Code** pode resultar em um código mais legível, compreensível e fácil de manter.
